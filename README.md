@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tharaka Dharmarathne
-- 👀 I’m interested in Web Developmnt
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning BSc IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
