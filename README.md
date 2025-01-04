@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/tharuwa6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharuwa6" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tharaka-dharmarathne-ab543b29b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharaka dharmarathne" height="30" width="40" /></a>
-<a href="https://fb.com/tharaka dharmarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharaka dharmarathne" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100042461173559&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharaka dharmarathne" height="30" width="40" /></a>
 <a href="https://instagram.com/tha.ru.wa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tha.ru.wa_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@cybersmithslk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyber smiths lk" height="30" width="40" /></a>
 </p>
