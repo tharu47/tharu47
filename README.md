@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharaka Dharmarathne</h1>
 <h3 align="center">A passionate Frontend & Backend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharu47&label=Profile%20views&color=0e75b6&style=flat" alt="tharu47" /> </p>
 
 - 🌱 I’m currently learning **Laravel Frameworks, React, Angularjs**
 
